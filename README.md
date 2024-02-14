@@ -1,3 +1,7 @@
+I forked this page for myself for later. 
+
+
+
 <div align="center">
 <img width="128px" src="https://github.com/codediodeio/sveltefire/blob/master/docs/public/logo.png?raw=true">
 <h1>SvelteFire <a href=""></h1>
